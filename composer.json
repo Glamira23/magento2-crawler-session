@@ -26,8 +26,7 @@
     }
   ],
   "require": {
-    "magento/framework": "*",
-    "jaybizzle/crawler-detect": "^1.2"
+    "magento/framework": "*"
   },
   "autoload": {
     "files": [
